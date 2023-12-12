@@ -1,0 +1,18 @@
+.gif {
+    border: 3px solid white
+}
+
+body {
+    background-color: #1c1c1c;
+    color:aliceblue
+}
+
+.form-elements{
+    border: 1px solid #1c1c1c;
+    border-radius: 5px;
+}
+
+#remove{
+    color:aliceblue;
+    background-color: #d95757
+}
